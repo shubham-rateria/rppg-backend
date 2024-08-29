@@ -1,0 +1,4 @@
+# flyctl launch added from rppg/.gitignore
+# created by virtualenv automatically
+rppg/**/*
+fly.toml
